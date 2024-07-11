@@ -1,5 +1,7 @@
 # Guinness
 
+<img src="https://github.com/jamescape/guinness/assets/121135667/4163fe3b-bd42-4e03-baab-a9919d792054" width="500" />
+
 ## Set Up
 
 ### `.env`
